@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dion-Luthjens.
+- 👀 I’m interested in creating games and modding.
+- 🌱 I’m currently learning Arduino, C, C#, Java and Python.
+- 💞️ I’m looking to collaborate on Minecraft forge mods.
+- 📫 E-Mail:
